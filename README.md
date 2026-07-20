@@ -12,6 +12,9 @@ on audio feature similarity (cosine similarity), not collaborative/user-history 
 - Recommendations ranked by cosine similarity to that profile
 
 ## Run it locally
+
+First download the entire 'Data Science Project 1' and open it in your Visual Studio Code.
+Then run this command in the terminal file of app.py:
 \```
 pip install -r requirements.txt
 streamlit run app.py
